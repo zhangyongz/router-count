@@ -1,4 +1,3 @@
-/* eslint-disable */
 // import router from '../router'
 import { RouteLocationNormalized, Router } from 'vue-router/dist/vue-router';
 
